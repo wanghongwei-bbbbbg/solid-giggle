@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/wanghongwei-bbbbbg/solid-giggle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <table align="center" border="1" cellpadding="0" cellspacing="0">
+        <thead>
+            <!-- 第一行 -->
+            <tr>
+                <th colspan="5">个人简历 </th>
+            </tr>
+        </thead>
 
-### Markdown
+        <tbody>
+            <tr>
+                <td bgcolor="#C0C0C0">姓名</td>
+                <td>王宏威</td>
+                <td bgcolor="#C0C0C0">性别</td>
+                <td>男</td>
+                <td rowspan="4"><img src="202041413121.jpg" alt="头像"></img></td>
+            </tr>
+            <tr>
+                <td bgcolor="#C0C0C0">民族</td>
+                <td>汉</td>
+                <td bgcolor="#C0C0C0">籍贯</td>
+                <td>广东湛江</td>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            </tr>
+            <tr>
+                <td bgcolor="#C0C0C0">出生日期</td>
+                <td>2000.12.19</td>
+                <td bgcolor="#C0C0C0">面试职位</td>
+                <td>网络技术</td>
 
-```markdown
-Syntax highlighted code block
+            </tr>
+            <tr>
+                <td bgcolor="#C0C0C0">专业</td>
+                <td>网络工程</td>
+                <td bgcolor="#C0C0C0">微信</td>
+                <td>w13078258695</td>
 
-# Header 1
-## Header 2
-### Header 3
+            </tr>
+            <tr>
+                <td bgcolor="#C0C0C0">联系电话</td>
+                <td>13078258695</td>
+                <td bgcolor="#C0C0C0">邮箱</td>
+                <td colspan="2">1279491043@qq.com</td>
+            </tr>
+            <tr>
+                <td bgcolor="#C0C0C0">技能特长</td>
+                <td colspan="5">
+                    <ul>
+                        <li> 具有一定的美学思维 </li>
+                        <li> 有设计理念 </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#C0C0C0">自我评价</td>
+                <td colspan="5">
+                    <ul>
+                    <li> 不错 </li>
+                    <li> 还行 </li>
+                </ul></td>
+            </tr>
+            <tr>
+                <td bgcolor="#C0C0C0">应聘原因</td>
+                <td colspan="5">
+                    <ul>
+                        <li> 我认为莞工青年论坛很像一个公司的布局 </li>
+                        <li> 什么东西都有，很期待在这里能学到很多，同时对设计还是比较感兴趣的 </li>
+                    </ul></td>
+            </tr>
 
-- Bulleted
-- List
+        </tbody>
+    </table>
+</body>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanghongwei-bbbbbg/solid-giggle/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
